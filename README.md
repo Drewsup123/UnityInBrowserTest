@@ -1,4 +1,4 @@
 # CPlusPlusReview
-Reviewing C++ for some unreal engine development
+Figuring out how to imbed unity games into the browser with React
 
-Bull Cow game straight c++ code
+Just little clone games I made
