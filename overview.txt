@@ -1,0 +1,27 @@
+() arguments
+{} scope
+<> template
+. accessor
+:: scope resolution like std::cout
+-> Pointer like *foo in C
+* Pointer
+& reference
+
+Mathmatical
+
++
+-
+=
+/
+++
+--
+**
+//
+>
+<
+%
+
+Creating Data Structures
+
+TArray<int> myArray
+myArray[0] etc
